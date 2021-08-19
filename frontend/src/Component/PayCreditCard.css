@@ -1,0 +1,6 @@
+.PayCreditCard-Body {
+  background-color: rgb(184, 155, 172);
+  min-height: 62vh;
+  display: flex;
+  flex-direction: column;
+}

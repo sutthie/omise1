@@ -1,0 +1,6 @@
+.Products-Body {
+  background-color: rgb(99, 120, 177);
+  min-height: 65vh;
+  display: flex;
+  flex-direction: column;
+}

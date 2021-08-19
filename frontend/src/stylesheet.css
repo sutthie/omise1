@@ -1,0 +1,1062 @@
+.body_nomargin {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.body_margin10 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.Switch_row_tb_whiteblue tr:nth-child(odd) {
+    background: #b8d1f3;
+}
+.Switch_row_tb_whiteblue tr:nth-child(even) {
+    background: #dae5f4;
+}
+.Switch_row_tb_whitegreen tr:nth-child(odd) {
+    background: #FFFFFF;
+}
+.Switch_row_tb_whitegreen tr:nth-child(even) {
+    background: #E0FFC1;
+}
+.Switch_row_tb_whiteyellow tr:nth-child(odd) {
+    background: #FFFFFF;
+}
+.Switch_row_tb_whiteyellow tr:nth-child(even) {
+    background: #FFFFEA;
+}
+.Switch_row_tb_lightblueyellow tr:nth-child(odd) {
+    background: #DFEFFF;
+}
+.Switch_row_tb_lightblueyellow tr:nth-child(even) {
+    background: #FFFFEA;
+}
+.Switch_col_tb_oranblue td:nth-of-type(odd) {
+    background: #FFEEDD
+}
+.Switch_col_tb_oranblue td:nth-of-type(even) {
+    background: #E1E1FF;
+}
+.Switch_col_tb_whitegreen td:first-child {
+    background: #FFFFFF
+}
+.Switch_col_tb_whitegreen td:nth-child(2n+3) {
+    background: #E0FFC1
+}
+.Switch_col_tb_ywhitegreen td:first-child {
+    background: #FFFFCC
+}
+.Switch_col_tb_ywhitegreen td:nth-child(2n+3) {
+    background: #E9FFD2
+}
+
+a.styleBlue:link {
+    color: blue;
+    text-decoration: none;
+}
+a.styleBlue:visited {
+    color: blue;
+    text-decoration: none;
+}
+a.styleBlue:active {
+    color: blue;
+    text-decoration: none;
+}
+a.styleBlue:hover {
+    color: blue;
+    background-color: yellow;
+    text-decoration: none;
+}
+
+a.styleWhite:link {
+    color: white;
+    text-decoration: none;
+}
+a.styleWhite:visited {
+    color: white;
+    text-decoration: none;
+}
+a.styleWhite:active {
+    color: white;
+    text-decoration: none;
+}
+a.styleWhite:hover {
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+}
+
+a.styleYellowPurple:link {
+    color: yellow;
+    text-decoration: none;
+}
+a.styleYellowPurple:visited {
+    color: yellow;
+    text-decoration: none;
+}
+a.styleYellowPurple:active {
+    color: yellow;
+    text-decoration: none;
+}
+a.styleYellowPurple:hover {
+    color: yellow;
+    background-color: #993399;
+    text-decoration: none;
+}
+
+a.styleBluePurple:link {
+    color: blue;
+    text-decoration: none;
+}
+a.styleBluePurple:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.styleBluePurple:active {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a.styleBluePurple:hover {
+    color: #FFFFFF;
+    background-color: #993399;
+    text-decoration: none;
+}
+
+a.styleYellowPurple2:link {
+    color: black;
+    text-decoration: none;
+}
+a.styleYellowPurple2:visited {
+    color: black;
+    text-decoration: none;
+}
+a.styleYellowPurple2:active {
+    color: black;
+    text-decoration: none;
+}
+a.styleYellowPurple2:hover {
+    color: black;
+    background-color: #993399;
+    text-decoration: none;
+}
+
+a.styleBlueYellow:link {
+    color: blue;
+    text-decoration: none;
+}
+a.styleBlueYellow:visited {
+    color: black;
+    text-decoration: none;
+}
+a.styleBlueYellow:active {
+    color: black;
+    text-decoration: none;
+}
+a.styleBlueYellow:hover {
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+a.styleWhiteYellow1:link {
+    color: white;
+    text-decoration: none;
+}
+a.styleWhiteYellow1:visited {
+    color: yellow;
+    text-decoration: none;
+}
+a.styleWhiteYellow1:active {
+    color: yellow;
+    text-decoration: none;
+}
+a.styleWhiteYellow1:hover {
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+a.styleWhiteYellow:link {
+    color: white;
+    text-decoration: none;
+}
+a.styleWhiteYellow:visited {
+    color: black;
+    text-decoration: none;
+}
+a.styleWhiteYellow:active {
+    color: black;
+    text-decoration: none;
+}
+a.styleWhiteYellow:hover {
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.fontAng16 {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 16pt
+}
+
+.fontAng18 {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 18pt
+}
+
+.fontAng20 {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 20pt
+}
+
+.fontAng22 {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 20pt
+}
+
+.fontAng18_White {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 18pt;
+    text-align: center;
+    color: #FFF;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng18_Violet {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 18pt;
+    text-align: center;
+    color: #609;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng18_Blue {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 18pt;
+    text-align: center;
+    color: #009;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.fontAng20_White {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 20pt;
+    text-align: center;
+    color: #FFF;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng20_Violet {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 20pt;
+    text-align: center;
+    color: #609;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng20_Blue {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 20pt;
+    text-align: center;
+    color: #009;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.fontAng22_White {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 22pt;
+    text-align: center;
+    color: #FFF;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng22_Violet {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 22pt;
+    text-align: center;
+    color: #609;
+    font-style: italic;
+    font-weight: bold;
+}
+.fontAng22_Blue {
+    font-family: 'AngsanaUPC', 'AngsanaNew';
+    font-size: 22pt;
+    text-align: center;
+    color: #009;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.fontSans12Black {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #000000;
+}
+.fontSans12Red {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #900;
+}
+.fontSans12White {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #FFF;
+}
+.fontSans12Yellow {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #FF0;
+}
+.fontSans12Blue {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #009;
+}
+.fontSans12Violet {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color:#440778;
+}
+.fontSans14Violet {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color:#440778;
+}
+.fontSans14Black {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #000000;
+}
+.fontSans14Red {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #900;
+}
+.fontSans14White {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #FFF;
+}
+.fontSans14Yellow {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #FF0;
+}
+.fontSans14Blue {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #009;
+}
+.fontSans16Violet {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color:#440778;
+}
+.fontSans16Black {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #000000;
+}
+.fontSans16Red {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #900;
+}
+.fontSans16RedLight {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #FF0000;
+}
+.fontSans16White {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #FFF;
+}
+.fontSans16Yellow {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #FF0;
+}
+.fontSans16Blue {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #009;
+}
+
+.fontSans18Black {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color: #000000;
+}
+.fontSans18Red {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color: #900;
+}
+.fontSans18White {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color: #FFF;
+}
+.fontSans18Yellow {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color: #FF0;
+}
+.fontSans18Blue {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color: #009;
+}
+.fontSans18Violet {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 18pt;
+    color:#440778;
+}
+
+.fontSans10Red {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 10pt;
+    color: #900;
+}
+.fontSans10Blue {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 10pt;
+    color: #009;
+}
+.fontSans10White {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 10pt;
+    color: #FFF;
+}
+.fontSans10Yellow {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 10pt;
+    color: #FF0;
+}
+.fontSans12Green {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 12pt;
+    color: #07841D;
+}
+.fontSans14Green {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 14pt;
+    color: #07841D;
+}
+.fontSans16Green {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 16pt;
+    color: #07841D;
+}
+.background_green {
+	BACKGROUND-COLOR: #ccff99;
+}
+.background_lightRedLow {
+    BACKGROUND-COLOR: #F4E2DC;
+}
+.background_greenDark {
+    BACKGROUND-COLOR: #005600;
+}
+.background_greenBitrong {
+    BACKGROUND-COLOR: #d7ff81;
+}
+.background_greenBitrong_light {
+    BACKGROUND-COLOR: #F2FFD7;
+}
+.background_purple {
+    BACKGROUND-COLOR: #993399;
+}
+.background_white {
+    BACKGROUND-COLOR: white;
+}
+.background_lightyellow {
+    BACKGROUND-COLOR: #FFFFCC;
+}
+.background_yellow {
+    BACKGROUND-COLOR: yellow;
+}
+.background_lightgray {
+    BACKGROUND-COLOR: #EEE
+}
+.background_lightblue {
+    BACKGROUND-COLOR: #E6FFFF;
+}
+.background_lightgreen {
+    BACKGROUND-COLOR: #D5FFEA;
+}
+.background_lightgreen1 {
+    BACKGROUND-COLOR: #D7FFCC;
+}
+.input_txtyellowpurple {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: yellow;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #993399
+}
+.input_txtwhiteblue {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: white;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: blue
+}
+.input_txtwhiteblue12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: white;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: blue;
+    height: 30px
+}
+.input_txtwhitepurple {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: white;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #993399;
+}
+.input_txtwhitepurple12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: white;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #993399;
+    height: 30px
+}
+.input_txtredgray {
+    BORDER-RIGHT: #999999 1px solid;
+    BORDER-TOP: #999999 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #999999 1px solid;
+    COLOR: #000000;
+    CURSOR: hand;
+    BORDER-BOTTOM: #999999 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #BCBCBC;
+    height: 30px
+}
+.input_txtredgray12pt {
+    BORDER-RIGHT: #999999 1px solid;
+    BORDER-TOP: #999999 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #999999 1px solid;
+    COLOR: #000000;
+    CURSOR: hand;
+    BORDER-BOTTOM: #999999 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #BCBCBC;
+    height: 30px
+}
+.input_txtwhitepurplelow {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: #000;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #E9D2FF;
+}
+.input_txtbluewhite {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: blue;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: white
+}
+.input_txtbluewhite12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: BLUE;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: WHITE;
+    height: 30px
+}
+.input_txtblackyellow {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: yellow
+}
+.input_txtblackyellow12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: yellow;
+    height: 30px
+}
+.input_txtblackgreen {
+    BORDER-RIGHT: #669966 1px solid;
+    BORDER-TOP: #669966 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #669966 1px solid;
+    CURSOR: hand;
+    COLOR: black;
+    BORDER-BOTTOM: #669966 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #ccff99
+}
+.input_txtblackgreen12pt {
+    BORDER-RIGHT: #669966 1px solid;
+    BORDER-TOP: #669966 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #669966 1px solid;
+    CURSOR: hand;
+    COLOR: black;
+    BORDER-BOTTOM: #669966 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #ccff99;
+    height: 30px
+}
+.input_txtarea_blackgreen12pt {
+    BORDER-RIGHT: #669966 1px solid;
+    BORDER-TOP: #669966 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #669966 1px solid;
+    CURSOR: hand;
+    COLOR: black;
+    BORDER-BOTTOM: #669966 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #ccff99;
+    height: 30px;
+}
+.input_buttonwhitepurple {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    CURSOR: hand;
+    COLOR: white;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #993399
+}
+.input_buttonwhitepurple12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    CURSOR: hand;
+    COLOR: white;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #993399;
+    height: 33px
+}
+.input_buttonblue {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    CURSOR: hand;
+    COLOR: #006699;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #99ccff
+}
+.input_buttonblueold {
+    BORDER-RIGHT: #99ccff 1px solid;
+    BORDER-TOP: #99ccff 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #99ccff 1px solid;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    BORDER-BOTTOM: #99ccff 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #000099
+}
+.input_buttonblue12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    CURSOR: hand;
+    COLOR: #006699;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #99ccff;
+    height: 33px
+}
+.input_buttonblueold12pt {
+    BACKGROUND-COLOR: #000099;
+    BORDER-LEFT: #99ccff 1px solid;
+    BORDER-RIGHT: #99ccff 1px solid;
+    BORDER-TOP: #99ccff 1px solid;
+    BORDER-BOTTOM: #99ccff 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: #FFFFFF;
+    height: 33px;
+}
+.input_buttoncream {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: #006699;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #FDF5E6
+}
+.input_buttongreen {
+    BORDER-RIGHT: #669966 1px solid;
+    BORDER-TOP: #669966 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #669966 1px solid;
+    CURSOR: hand;
+    COLOR: #009900;
+    BORDER-BOTTOM: #669966 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #ccff99
+}
+.input_buttongreen2 {
+    BACKGROUND-COLOR: #006600;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: #ffffff;
+}
+.input_buttongreen3 {
+    BACKGROUND-COLOR: #006600;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: yellow
+}
+.input_buttongreen_12pt {
+    BORDER-RIGHT: #669966 1px solid;
+    BORDER-TOP: #669966 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #669966 1px solid;
+    CURSOR: hand;
+    COLOR: #009900;
+    BORDER-BOTTOM: #669966 1px solid;
+    BACKGROUND-COLOR: #ccff99;
+    height: 33px
+}
+.input_buttongreen2_12pt {
+    BACKGROUND-COLOR: #006600;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: #ffffff;
+    height: 33px
+}
+.input_buttongreen3_12pt {
+    BACKGROUND-COLOR: #006600;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: yellow;
+    height: 33px
+}
+.input_buttonlightgreen {
+    BACKGROUND-COLOR: #D5FFEA;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: black
+}
+.input_buttonlightgreen12pt {
+    BACKGROUND-COLOR: #D5FFEA;
+    BORDER-LEFT: #006600 1px solid;
+    BORDER-RIGHT: #006600 1px solid;
+    BORDER-TOP: #006600 1px solid;
+    BORDER-BOTTOM: #006600 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: black;
+    height: 33px
+}
+.input_buttonred {
+    BACKGROUND-COLOR: #ff0000;
+    BORDER-LEFT: #ff0000 1px solid;
+    BORDER-RIGHT: #ff0000 1px solid;
+    BORDER-TOP: #ff0000 1px solid;
+    BORDER-BOTTOM: #ff0000 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: yellow
+}
+.input_buttonred12pt {
+    BACKGROUND-COLOR: #ff0000;
+    BORDER-LEFT: #ff0000 1px solid;
+    BORDER-RIGHT: #ff0000 1px solid;
+    BORDER-TOP: #ff0000 1px solid;
+    BORDER-BOTTOM: #ff0000 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: yellow;
+    height: 33px
+}
+.input_buttonred12_2pt {
+    BACKGROUND-COLOR: #A60000;
+    BORDER-LEFT: #ff0000 1px solid;
+    BORDER-RIGHT: #ff0000 1px solid;
+    BORDER-TOP: #ff0000 1px solid;
+    BORDER-BOTTOM: #ff0000 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bold;
+    CURSOR: hand;
+    COLOR: yellow;
+    height: 33px
+}
+.input_buttonredlow {
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #000000 1px solid;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: #000000 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    CURSOR: hand;
+    BACKGROUND-COLOR: #cc9999
+}
+.input_buttonredlow12pt {
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #000000 1px solid;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: #000000 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    CURSOR: hand;
+    BACKGROUND-COLOR: #cc9999;
+    height: 33px
+}
+.input_buttonblackyellow {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: yellow
+}
+.input_buttonblackyellow12pt {
+    BORDER-RIGHT: #6699cc 1px solid;
+    BORDER-TOP: #6699cc 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #6699cc 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    BORDER-BOTTOM: #6699cc 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: yellow;
+    height: 33px
+}
+.input_buttonredgray {
+    BORDER-RIGHT: #999999 1px solid;
+    BORDER-TOP: #999999 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: #999999 1px solid;
+    COLOR: #000000;
+    CURSOR: hand;
+    BORDER-BOTTOM: #999999 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #BCBCBC;
+    height: 33px
+}
+.input_buttonredgray12pt {
+    BORDER-RIGHT: #999999 1px solid;
+    BORDER-TOP: #999999 1px solid;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    BORDER-LEFT: #999999 1px solid;
+    COLOR: #000000;
+    CURSOR: hand;
+    BORDER-BOTTOM: #999999 1px solid;
+    FONT-FAMILY: 'Microsoft Sans Serif', 'Microsoft Sans Serif';
+    BACKGROUND-COLOR: #BCBCBC;
+    height: 33px
+}
+.txtred_norm {
+    font-family: "Microsoft Sans Serif";
+    font-size: 10pt;
+    color: #F00;
+    font-weight: normal;
+}
+.txtred_bold {
+    font-size: 10pt;
+    color: #F00;
+    font-weight: bold;
+}
+.txtright {
+    text-align: right
+}
+.txtleft {
+    text-align: left
+}
+.txtcenter {
+    text-align: center
+}
+/* table css */
+.tdpink {
+    BACKGROUND-COLOR: lavenderblush
+}
+.tdlightyellow {
+    BACKGROUND-COLOR: #FFFFCC
+}
+.tdwhite {
+    BACKGROUND-COLOR: white
+}
+.tdlightblue {
+    BACKGROUND-COLOR: #E6FFFF
+}
+.tdlightgreen {
+    BACKGROUND-COLOR: #E1FFE1
+}
+.tdlightbrown {
+    BACKGROUND-COLOR: #FFECD9
+}
+.tdlightgray {
+    BACKGROUND-COLOR: #EEE
+}
+.tdlightorange {
+    BACKGROUND-COLOR: #FFF2E6
+}
+.Hidden_obj {
+    display: none;
+}
+.req {
+    background-color: white #FFF;
+}
+.display_block {
+    display: block
+}
+.display_table_col {
+    display: table-column
+}
+.display_table_cell {
+    display: table-cell
+}
+.display_hide {
+    display: none
+}
+.visible_show {
+    visibility: visible
+}
+.visible_hide {
+    visibility: hidden
+}
+.Show_Block {
+    display: block;
+}
+.Show_Inline {
+    display: inline;
+}
+.Show_Table {
+    display: table;
+}

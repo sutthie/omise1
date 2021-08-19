@@ -1,0 +1,6 @@
+.Checkout-Body {
+  background-color: rgb(187, 183, 129);
+  min-height: 65vh;
+  display: flex;
+  flex-direction: column;
+}

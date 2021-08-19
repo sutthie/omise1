@@ -1,0 +1,6 @@
+.Cart-Body {
+  background-color: rgb(187, 168, 128);
+  min-height: 65vh;
+  display: flex;
+  flex-direction: column;
+}
