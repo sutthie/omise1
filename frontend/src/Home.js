@@ -1,13 +1,14 @@
 import React, { Component } from "react";
-import LoginPart from './LoginPart';
+import LoginPart from "./LoginPart";
 
 //class Login extends Component {
 export default class Login extends Component {
-    render() {
-        return (  
-               <LoginPart />            			                                                
-        )       
-    }
+  render() {
+    return (
+      // login part
+      <LoginPart />
+    );
+  }
 }
 
 //export default Login;
